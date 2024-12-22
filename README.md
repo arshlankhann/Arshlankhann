@@ -21,6 +21,9 @@
 <a href="http://linktr.ee/developer_arshlan">
 	<img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" />
 </a>
+<a href="mailto:arshlank894@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" />
+</a>
 </p>
 
 ---
