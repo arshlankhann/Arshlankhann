@@ -136,7 +136,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=%E2%9A%99%EF%B8%8F+Working+Graph%3A" alt="Typing SVG" /></a>
 
-[![Durgesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arshlankhann&bg_color=151515&color=9e4c98&line=79ff97&point=818181&area=true&hide_border=true)](https://github.com/Arshlankhann/github-readme-activity-graph)
+[![Arshlan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arshlankhann&bg_color=151515&color=9e4c98&line=79ff97&point=818181&area=true&hide_border=true)](https://github.com/Arshlankhann/github-readme-activity-graph)
 
 
 ----
