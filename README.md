@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/arshlankhan" align="center"> 
          <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
 </a>
-<a href="[#about-me](https://arshlanportfolio.netlify.app/)">
+<a href="https://arshlanportfolio.netlify.app/">
          <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=About.me&logoColor=0A0209" />
 </a>
 <a href="#about-me">
