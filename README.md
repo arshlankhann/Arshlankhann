@@ -41,7 +41,7 @@
 
 ## About Me:
 - I'm currently working on **Web Development Projects**
-- Final Year Student of B.Tech (Computer Science Engineering) at [SR Institute of Management & Technology](https://srimt.co.in/b-tech/)
+- Graduated in B.Tech (Computer Science Engineering) at [SR Institute of Management & Technology](https://srimt.co.in/b-tech/)
 - I'm looking to collaborate on **Open Source & Full Stack Projects**
 - I'm looking for help with **System Design & Architecture**
 - Professionally, I am a Software Engineer and Open Source Contributor
