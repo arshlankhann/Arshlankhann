@@ -145,12 +145,10 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/Arshlankhann/count.svg" />
-  </p> 
+  <p align="center"><b>Visitors Count</b></p>
+  <img src="https://komarev.com/ghpvc/?username=Arshlankhann&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </div>
+
 
 
 
